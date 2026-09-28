@@ -1,4 +1,4 @@
-# Bk Local
+# Local Homebrew packages
 
 ## How do I install these formulae?
 
